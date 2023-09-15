@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Usage::
-    ./server.py [<port>]
+    ./py-http-srv.py [<port>]
 """
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import logging
